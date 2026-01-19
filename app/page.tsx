@@ -36,7 +36,6 @@ export default function Home() {
               height={50}
               // className="object-contain"
             />
-            
           </div>
 
           {/* Navigation */}
@@ -282,7 +281,9 @@ export default function Home() {
                     className="text-white px-6 py-3 rounded-full font-semibold hover:opacity-90 transition-all duration-300 flex items-center justify-center gap-2 hover:scale-105 hover:shadow-lg"
                     style={{ background: 'linear-gradient(to right, #64CB71, #418F40)' }}
                   >
-                    Explore
+                    <a href="/branding">
+                    Explore </a>
+                    
                     <svg className="w-4 h-4 transition-transform duration-300 group-hover:translate-x-1" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                       <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M13 7l5 5m0 0l-5 5m5-5H6" />
                     </svg>
