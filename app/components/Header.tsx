@@ -41,7 +41,7 @@ export default function Header() {
         <Link href="/contact" className="px-4 py-2 text-gray-400 hover:text-gray-500 font-medium transition-all duration-300 hover:scale-105">
           Contact us
         </Link>
-        <Link href="/career" className="px-4 py-2 text-gray-400 hover:text-gray-500 font-medium transition-all duration-300 hover:scale-105">
+        <Link href="/join-our-team" className="px-4 py-2 text-gray-400 hover:text-gray-500 font-medium transition-all duration-300 hover:scale-105">
           Career
         </Link>
       </nav>

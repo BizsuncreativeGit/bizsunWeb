@@ -61,7 +61,7 @@ export default function Home() {
           {/* Trusted By Section */}
         </main>
       </div>
-      <div className="mt-[-30px] w-full flex flex-col items-center" style={{
+      <div className="mt-[-30] w-full flex flex-col items-center" style={{
         background: 'linear-gradient(to bottom right, rgba(100, 203, 113, 0.1), rgba(255, 240, 150, 0.2))'
       }}>
         <Image
@@ -166,23 +166,23 @@ export default function Home() {
 
               {/* Right: Four-Step Process Grid */}
               <div>
-              <h4 className="text-center text-2xl font-semibold mb-10">
-                How We Work
-              </h4>
+                <h4 className="text-center text-2xl font-semibold mb-10">
+                  How We Work
+                </h4>
 
-              <div className="grid grid-cols-2 gap-6">
-                {/* Step 01: UNDERSTAND */}
-                <img src="/digital 1.1.svg" alt="" />
+                <div className="grid grid-cols-2 gap-6">
+                  {/* Step 01: UNDERSTAND */}
+                  <img src="/digital 1.1.svg" alt="" />
 
-                {/* Step 02: STRATEGIZE */}
-                <img src="/digital 1.2.svg" alt="" />
+                  {/* Step 02: STRATEGIZE */}
+                  <img src="/digital 1.2.svg" alt="" />
 
-                {/* Step 03: EXECUTE */}
-                <img src="/digital 1.3.svg" alt="" />
+                  {/* Step 03: EXECUTE */}
+                  <img src="/digital 1.3.svg" alt="" />
 
-                {/* Step 04: OPTIMIZE & SCALE */}
-                <img src="/digital 1.4.svg" alt="" />
-              </div>
+                  {/* Step 04: OPTIMIZE & SCALE */}
+                  <img src="/digital 1.4.svg" alt="" />
+                </div>
               </div>
             </div>
           </div>
@@ -199,7 +199,7 @@ export default function Home() {
             {/* 1. What's Included in Our Digital Marketing Services */}
             <div className="mb-20">
               <h2 className="text-4xl md:text-5xl lg:text-5xl font-bold text-black mb-12">
-               What’s Included in Our website & Branding Services
+                What’s Included in Our website & Branding Services
               </h2>
               <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 items-center">
                 {/* Left: Services List */}
@@ -244,10 +244,10 @@ export default function Home() {
                       <p className="text-gray-700">High-converting pages for campaigns and lead generation</p>
                     </div>
                   </div>
-    
+
                 </div>
                 {/* Right: Illustration */}
-                
+
               </div>
             </div>
 
