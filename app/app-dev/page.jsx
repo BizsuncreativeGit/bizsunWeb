@@ -182,8 +182,12 @@ Our development team focuses on building future-ready digital products that are 
                   >
                     Questions? Talk to us
                   </button>
-                   <h2 className="text-4xl md:text-5xl lg:text-4xl font-bold text-black mb-6 mt-10 leading-tight">
-We Build Technology That Works for Your Business                  </h2>
+                   <h2 className="text-4xl md:text-5xl lg:text-3xl font-bold text-black mb-6 mt-10 leading-tight">
+Our Approach to App & Web Development
+                  </h2>
+
+               <p className="text-lg text-gray-700 leading-relaxed">
+Our development process is driven by clarity, collaboration, and performance. We start by understanding your business requirements, users, and long-term goals. From planning architecture to UI/UX design, development, testing, and deployment, every step is carefully executed. We focus on clean code, secure systems, and scalable infrastructure — ensuring your digital product performs reliably today and in the future.   </p>
                 </div>
 
                 {/* Right: Four-Step Process Grid */}
@@ -201,7 +205,7 @@ We Build Technology That Works for Your Business                  </h2>
                  <img src="/4 (2).png" alt="" />
 
                   {/* Step 05: OPTIMIZE & SCALE */}
-                  <img src="/4 (2).png" alt=""/>
+                  <img src="/10 (1).png" alt="" className="ml-50"/>
                 </div>
               </div>
             </div>
